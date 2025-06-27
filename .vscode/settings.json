@@ -1,0 +1,6 @@
+ {
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Week2_JUNIT,Mockito and SL4J/lib/junit-4.13.2.jar"
+    ]
+}
